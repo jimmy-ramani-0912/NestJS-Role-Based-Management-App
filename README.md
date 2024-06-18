@@ -1,4 +1,4 @@
-# Building a Secure Authentication System with NestJS, PostgreSQL, and TypeORM: A Comprehensive Guide
+# Building a Comprehensive Role-Based User Management System with NestJS, PostgreSQL, and TypeORM
 
 The combination of **NestJS**, **TypeORM**, and **PostgreSQL** provides a scalable and efficient stack for developing web services. This article outlines constructing a role-based authentication system with NestJS, focusing on SuperAdmin, Admin, and User roles. We will delve into the fundamentals of each element and their collaboration, guiding you through a straightforward example to kickstart your project.
 
